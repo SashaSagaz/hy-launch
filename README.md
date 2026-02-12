@@ -1,30 +1,55 @@
 <p align="center">
-  <img src="https://hy-launch.com/assets/img/icon/hy-launch.png" width="140" height="140">
+  <img src="https://hy-launch.com/assets/img/icon/hy-launch.png" width="150" height="150">
 </p>
 
 <h1 align="center">HyLaunch</h1>
 
 <p align="center">
-  <strong>Advanced Launcher for Hytale • Windows Edition</strong>
+  <strong>Самый продвинутый неофициальный лаунчер для Hytale на Windows</strong>
 </p>
 
 <p align="center">
+  Быстро • Стабильно • Без сбоев • Мод-менеджер • Встроенный сервер
+</p>
+
+<p align="center">
+  Создан для игроков, которым важна производительность, контроль и надёжность.
+</p>
+
+---
+
+<p align="center">
   <a href="https://hy-launch.com">
-    <img src="https://img.shields.io/badge/Website-hy--launch.com-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black">
+    <img src="https://img.shields.io/badge/Официальный_сайт-hy--launch.com-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
   <a href="https://discord.com/invite/TzvtHPNWTP">
-    <img src="https://img.shields.io/badge/Discord-Community-00ff88?style=for-the-badge&logo=discord&logoColor=black">
+    <img src="https://img.shields.io/badge/Discord-Сообщество-00ff88?style=for-the-badge&logo=discord&logoColor=black">
   </a>
   <a href="https://t.me/hy_launch">
-    <img src="https://img.shields.io/badge/Telegram-News-00ff88?style=for-the-badge&logo=telegram&logoColor=black">
+    <img src="https://img.shields.io/badge/Telegram-Новости-00ff88?style=for-the-badge&logo=telegram&logoColor=black">
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/SashaSagaz/hy-launch?style=for-the-badge&color=00ff88">
   <img src="https://img.shields.io/github/downloads/SashaSagaz/hy-launch/total?style=for-the-badge&color=00ff88">
-  <img src="https://img.shields.io/badge/Platform-Windows-00ff88?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Платформа-Windows_10_|_11-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Система_версий-Собственная-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Мод_менеджер-Встроен-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Server_Controller-Интегрирован-00ff88?style=for-the-badge">
+</p>
+
+---
+
+<p align="center">
+  HyLaunch — это высокопроизводительный лаунчер для Hytale,
+  обеспечивающий стабильную загрузку версий, ускоренную проверку файлов (до 10x быстрее),
+  продвинутую систему модов и полный контроль сервера.
+</p>
+
+<p align="center">
+  Когда другие неофициальные лаунчеры перестали загружать версии —
+  <strong>HyLaunch продолжил работать.</strong>
 </p>
 
 ---
