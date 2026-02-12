@@ -31,12 +31,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/SashaSagaz/hy-launch?style=for-the-badge&color=00ff88">
-  <img src="https://img.shields.io/github/downloads/SashaSagaz/hy-launch/total?style=for-the-badge&color=00ff88">
-  <img src="https://img.shields.io/badge/Платформа-Windows_10_|_11-00ff88?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Система_версий-Собственная-00ff88?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Мод_менеджер-Встроен-00ff88?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Server_Controller-Интегрирован-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/github/v/release/SashaSagaz/hy-launch?style=for-the-badge&color=14592c">
+  <img src="https://img.shields.io/github/downloads/SashaSagaz/hy-launch/total?style=for-the-badge&color=14592c">
+  <img src="https://img.shields.io/badge/Платформа-Windows_10_|_11-14592c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Система_версий-Собственная-14592c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Мод_менеджер-Встроен-14592c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Server_Controller-Интегрирован-14592c?style=for-the-badge">
 </p>
 
 ---
